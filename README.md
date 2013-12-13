@@ -3,5 +3,4 @@ infograwww
 
 Infographics What-Where-When
 
-Social project for education and marketing area
-s
+Social project for education and marketing areas
